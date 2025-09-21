@@ -1,1 +1,2 @@
 Adding this kevin file to a folder called The-First Thruoug VS code
+now i'm adding something o this file like 1,23,4,5,6.
